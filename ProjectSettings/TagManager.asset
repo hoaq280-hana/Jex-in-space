@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - Ast
+  - Bullet
+  - Health
+  - Coin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Wall
+  - Ast
+  - Player
+  - Coin
+  - CoinManget
+  - ShockWave
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Invisible wall
+    uniqueID: 3133659395
+    locked: 0
+  - name: BackGroundNotLight
+    uniqueID: 4091967543
+    locked: 0
+  - name: BackGround
+    uniqueID: 920819605
+    locked: 0
+  - name: Ast
+    uniqueID: 3479870669
+    locked: 0
+  - name: Player
+    uniqueID: 3981643319
+    locked: 0
+  - name: Effect
+    uniqueID: 1048955543
+    locked: 0
+  - name: UI
+    uniqueID: 1626587447
+    locked: 0
+  - name: CameraSortingLayer
+    uniqueID: 2262713289
+    locked: 0
